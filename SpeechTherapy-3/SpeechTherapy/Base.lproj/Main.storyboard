@@ -615,7 +615,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="SidekickLogo.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="ian-8P-MKv">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="SidekickSpeechie-3.JPG" translatesAutoresizingMaskIntoConstraints="NO" id="ian-8P-MKv">
                                 <rect key="frame" x="67" y="70" width="240" height="155"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -648,7 +648,7 @@
         <image name="ForwardButton.JPG" width="285" height="314"/>
         <image name="ResetButton.JPG" width="271" height="268"/>
         <image name="SaveToReviewButton.JPG" width="291" height="273"/>
-        <image name="SidekickLogo.jpg" width="16" height="16"/>
+        <image name="SidekickSpeechie-3.JPG" width="551" height="412"/>
         <image name="SidekickSpeechieRedoReview.JPG" width="551" height="412"/>
         <image name="SidekickSpeechieReset.JPG" width="551" height="412"/>
         <image name="SpeechLogolbl.jpg" width="665" height="818"/>

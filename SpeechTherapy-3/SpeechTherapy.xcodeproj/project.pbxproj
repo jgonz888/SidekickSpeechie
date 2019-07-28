@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		440F3FB622ED370500F4A056 /* welcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440F3FB522ED370500F4A056 /* welcomeViewController.swift */; };
+		440F3FB822ED462000F4A056 /* SidekickSpeechie-3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 440F3FB722ED462000F4A056 /* SidekickSpeechie-3.JPG */; };
 		441238F122DD732800EC9B5C /* CVCWordsDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441238F022DD732800EC9B5C /* CVCWordsDB.swift */; };
 		441238F322DD745C00EC9B5C /* CVCWordList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441238F222DD745C00EC9B5C /* CVCWordList.swift */; };
 		441238F522DD927C00EC9B5C /* FlashCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441238F422DD927C00EC9B5C /* FlashCard.swift */; };
@@ -56,6 +57,7 @@
 
 /* Begin PBXFileReference section */
 		440F3FB522ED370500F4A056 /* welcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = welcomeViewController.swift; sourceTree = "<group>"; };
+		440F3FB722ED462000F4A056 /* SidekickSpeechie-3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SidekickSpeechie-3.JPG"; sourceTree = "<group>"; };
 		441238F022DD732800EC9B5C /* CVCWordsDB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CVCWordsDB.swift; path = ../CVCWordsDB.swift; sourceTree = "<group>"; };
 		441238F222DD745C00EC9B5C /* CVCWordList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CVCWordList.swift; sourceTree = "<group>"; };
 		441238F422DD927C00EC9B5C /* FlashCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlashCard.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 			children = (
 				442B510B22E3B12600C96419 /* playButton.JPG */,
 				442B511722E3C1AE00C96419 /* BackButton.JPG */,
+				440F3FB722ED462000F4A056 /* SidekickSpeechie-3.JPG */,
 				442B511922E3C1B500C96419 /* ForwardButton.JPG */,
 				442B511322E3BF7B00C96419 /* SaveToReviewButton.JPG */,
 				442B512722E3D1A300C96419 /* SidekickSpeechieReset.JPG */,
@@ -316,6 +319,7 @@
 				442B510C22E3B12600C96419 /* playButton.JPG in Resources */,
 				7C6D683122DD40FA007C60EA /* Assets.xcassets in Resources */,
 				7C6D682F22DD40FA007C60EA /* Main.storyboard in Resources */,
+				440F3FB822ED462000F4A056 /* SidekickSpeechie-3.JPG in Resources */,
 				7C5C025722E14D1500C0B669 /* reviewLogo.png in Resources */,
 				442B512822E3D1A300C96419 /* SidekickSpeechieReset.JPG in Resources */,
 				442B511422E3BF7B00C96419 /* SaveToReviewButton.JPG in Resources */,
